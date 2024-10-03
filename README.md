@@ -1,4 +1,4 @@
-Hall Reservation Hub
+<h1>Hall Reservation Hub</h1></br>
 Welcome to the Hall Reservation Hub! This web application allows users to seamlessly book seminar halls within a college campus. Whether you’re organizing a workshop, a seminar, or a meeting, our platform provides an intuitive interface for managing hall reservations.
 
 Features
