@@ -1,12 +1,14 @@
 <h1>Hall Reservation Hub</h1></br>
-Welcome to the Hall Reservation Hub! This web application allows users to seamlessly book seminar halls within a college campus. Whether you’re organizing a workshop, a seminar, or a meeting, our platform provides an intuitive interface for managing hall reservations.
+Welcome to the Hall Reservation Hub! This web application allows users to seamlessly book seminar halls within a college campus. Whether you’re organizing a workshop, a seminar, or a meeting, our platform provides an intuitive interface for managing hall reservations.</br>
 
-Features
-User-Friendly Interface: Built with HTML, CSS, and Bootstrap for a responsive and modern design.
-Real-Time Availability: Check hall availability instantly to ensure your desired time slot.
-Easy Booking Process: Simple steps to reserve a hall, making it accessible for all users.
-Admin Panel: Manage bookings and hall details efficiently using PHP.
-Dynamic Interactions: Enhance user experience with JavaScript for interactive features.
+<h3>Features</h3></br>
+<ul>
+<li>User-Friendly Interface: Built with HTML, CSS, and Bootstrap for a responsive and modern design.</li>
+<li>Real-Time Availability: Check hall availability instantly to ensure your desired time slot.</li>
+<li>Easy Booking Process: Simple steps to reserve a hall, making it accessible for all users.</li>
+<li>Admin Panel: Manage bookings and hall details efficiently using PHP.</li>
+<li>Dynamic Interactions: Enhance user experience with JavaScript for interactive features.</li>
+</ul>
 Technologies Used
 HTML: Structure of the web pages.
 CSS: Styling and layout design for a polished look.
