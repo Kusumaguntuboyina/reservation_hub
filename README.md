@@ -9,9 +9,11 @@ Welcome to the Hall Reservation Hub! This web application allows users to seamle
 <li>Admin Panel: Manage bookings and hall details efficiently using PHP.</li>
 <li>Dynamic Interactions: Enhance user experience with JavaScript for interactive features.</li>
 </ul>
-Technologies Used
-HTML: Structure of the web pages.
-CSS: Styling and layout design for a polished look.
-Bootstrap: Responsive design for compatibility across devices.
-JavaScript: For dynamic content and interactivity.
-PHP: Server-side scripting for handling bookings and user management.
+<h3>Technologies Used</h3></br>
+<ul>
+<li>HTML: Structure of the web pages.</li>
+<li>CSS: Styling and layout design for a polished look.</li>
+<li>Bootstrap: Responsive design for compatibility across devices.</li>
+<li>JavaScript: For dynamic content and interactivity.</li>
+<li>PHP: Server-side scripting for handling bookings and user management.</li>
+</ul>
